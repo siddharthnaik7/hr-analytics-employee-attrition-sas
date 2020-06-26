@@ -13,11 +13,3 @@
   o Clustering
   
   o Decision Tree
-  
-  o Depthwise Seperable Model
-  
-  o Fine Tuning with VGG19 Model
-  
-  o VGG19 Model with Oversampling
-  
-  o Densenet Model
